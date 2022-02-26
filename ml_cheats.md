@@ -160,3 +160,7 @@ Reinforcement Learning, Markov Decision process , Q Learning - Q Learning functi
 https://www.youtube.com/watch?v=mNB8NlwhAgg&list=PLmAmHQ-_5ySyQeEryrlomrEvOGNYN3TAL 60 61
 
 https://youtu.be/_O9a5xbBe-s?list=PL4gu8xQu0_5JBO1FKRO5p20wc8DprlOgn
+
+True/Smaple Error
+
+https://youtu.be/me0ppU4KFwg?list=PLmAmHQ-_5ySyQeEryrlomrEvOGNYN3TAL
