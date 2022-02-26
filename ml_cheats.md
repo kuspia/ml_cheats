@@ -1,4 +1,4 @@
-#### ml_cheats*
+## ml_cheats
 Types of machine learning:
 
 1.Sup..
