@@ -77,7 +77,7 @@ SVM :: concept
 
 Overview 0-6:32 https://youtu.be/FB5EdxAGxQg
 
-``` MAthematical Hyperplame eq^n ``` https://www.youtube.com/watch?v=10e-b8AgdVA&ab_channel=CampusX 
+``` MAthematical Hyperplane eq^n ``` https://www.youtube.com/watch?v=10e-b8AgdVA&ab_channel=CampusX 
 
 https://www.youtube.com/watch?v=VJ7WF_Dr3Os&ab_channel=MaheshHuddar
 
@@ -91,7 +91,7 @@ https://youtu.be/03IrkMM4E6M
 
 Unsupervised learning :: Kmeans https://www.youtube.com/watch?v=EItlUEPCIzM&ab_channel=codebasics
 
-Naive Bayes CLassifier concept+Numerical 
+Naive Bayes CLassifier concept + Numerical 
 
 https://www.youtube.com/watch?v=qWQwS9J8Uzk&list=PL4gu8xQu0_5JBO1FKRO5p20wc8DprlOgn&index=30&ab_channel=MaheshHuddar
 
