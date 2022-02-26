@@ -73,11 +73,11 @@ Inductive bias
 
 https://youtu.be/bf5IksffXtw?list=PLmAmHQ-_5ySyQeEryrlomrEvOGNYN3TAL
 
-SVM
+SVM :: concept
 
 Overview 0-6:32 https://youtu.be/FB5EdxAGxQg
 
-MAthematical Hyperplame eq^n https://www.youtube.com/watch?v=10e-b8AgdVA&ab_channel=CampusX
+``` MAthematical Hyperplame eq^n ``` https://www.youtube.com/watch?v=10e-b8AgdVA&ab_channel=CampusX 
 
 https://www.youtube.com/watch?v=VJ7WF_Dr3Os&ab_channel=MaheshHuddar
 
