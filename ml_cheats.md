@@ -61,11 +61,13 @@ https://www.youtube.com/watch?v=jV0LpWF6UgY&ab_channel=Trouble-Free
 
 https://www.youtube.com/watch?v=zbXa21EJKfc&ab_channel=Trouble-Free
 
-https://www.youtube.com/watch?v=O6vwN74aSGY&list=PL4gu8xQu0_5JBO1FKRO5p20wc8DprlOgn&ab_channel=MaheshHuddar
+Hypothesis, Version Space, Find S, List and eliminate, Candidate Elimination 
 
-Hypothesis, Version Space, Find S, List and eliminate, Candidate Elimination 1-10
+https://www.youtube.com/watch?v=O6vwN74aSGY&list=PL4gu8xQu0_5JBO1FKRO5p20wc8DprlOgn&ab_channel=MaheshHuddar 1-10
 
-Entropy, Info Gain, Decision Tree, ID3 13 14 16
+Entropy, Info Gain, Decision Tree, ID3 
+
+https://www.youtube.com/watch?v=O6vwN74aSGY&list=PL4gu8xQu0_5JBO1FKRO5p20wc8DprlOgn&ab_channel=MaheshHuddar 13 14 16
 
 Inductive bias 
 
