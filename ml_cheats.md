@@ -1,7 +1,7 @@
 ## ml_cheats
 Types of machine learning:
 
-1.Sup..
+1.Supervised learning
 
 types ..
 
@@ -15,9 +15,9 @@ b1) binary
 
 b2) multiclass
 
-2.Un..
+2.Unsupervised
 
-3.Rei..
+3.Reinforcement learning
 
 Expert System defn
 
